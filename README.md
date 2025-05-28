@@ -4,7 +4,7 @@
 
 ## Моё портфолио
 <li><a href="https://github.com/mortex-cpu/My-Test-Cases"> Тест-кейсы<br></a>
-<li><a> Чек-листы<br></a>
+<li><a href="https://github.com/mortex-cpu/Reports-on-defects"> Отчёты о дефектах<br></a>
 </li></a>
 
 ### Языки программирования и инструменты
