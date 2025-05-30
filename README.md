@@ -3,7 +3,7 @@
 <p> Ответственный, коммуникабельный, готов получать новые знания. Молодой человек 2006 года, работу выполняю в срок, к труду подхожу с увлечением. Всегда готов к чему-то новому.
 
 ## Моё портфолио
-<li><a href="https://github.com/mortex-cpu/My-Test-Cases"> Тест-кейсы<br></a>
+<li><a href="https://github.com/mortex-cpu/My-Test-Cases/tree/main/SolidBank-Test"> Тест-кейсы<br></a>
 <li><a href="https://github.com/mortex-cpu/Reports-on-defects"> Отчёты о дефектах <br></a>
 <li><a href="https://github.com/mortex-cpu/Database"> Работа с базой данных<br>
 </li></a>
